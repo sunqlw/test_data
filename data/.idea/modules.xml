@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/data.iml" filepath="$PROJECT_DIR$/.idea/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../auto_test/web_auto/datahub-smoke-auto/.idea/datahub-smoke-auto.iml" filepath="$PROJECT_DIR$/../../auto_test/web_auto/datahub-smoke-auto/.idea/datahub-smoke-auto.iml" />
+    </modules>
+  </component>
+</project>
